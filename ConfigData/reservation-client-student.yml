@@ -3,5 +3,5 @@ message: "HELLO STUDENTS DEPARTMENT STORE!!!!"
 spring:
     cloud:
         stream:
-            binding:
+            bindings:
                 output: "reservations"

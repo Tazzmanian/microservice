@@ -3,5 +3,5 @@ message: "HELLO NAMESLESS DEPARTMENT STORE!!!!"
 spring:
     cloud:
         stream:
-            binding:
+            bindings:
                 input: "reservations"

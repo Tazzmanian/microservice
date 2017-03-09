@@ -3,5 +3,5 @@ message: "HELLO YML DEFAULT DEPARTMENT STORE!!!!"
 spring:
     cloud:
         stream:
-            binding:
+            bindings:
                 output: "reservations"
