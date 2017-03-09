@@ -4,4 +4,4 @@ spring:
     cloud:
         stream:
             binding:
-                input: "reservations"
+                output: "reservations"
