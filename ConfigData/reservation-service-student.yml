@@ -1,2 +1,7 @@
 student: reservation-service-student.yml
 message: "HELLO STUDENTS DEPARTMENT STORE!!!!"
+spring:
+    cloud:
+        stream:
+            binding:
+                input: "reservations"

@@ -1,4 +1,4 @@
-master: reservation-service-master.yml
+master: reservation-client-master.yml
 message: "HELLO NAMESLESS DEPARTMENT STORE!!!!"
 spring:
     cloud:

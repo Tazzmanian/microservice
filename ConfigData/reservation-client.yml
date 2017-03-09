@@ -1,5 +1,5 @@
-master: reservation-service-master.yml
-message: "HELLO NAMESLESS DEPARTMENT STORE!!!!"
+student: reservation-client.yml
+message: "HELLO YML DEFAULT DEPARTMENT STORE!!!!"
 spring:
     cloud:
         stream:
