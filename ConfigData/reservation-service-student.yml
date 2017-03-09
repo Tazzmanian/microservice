@@ -4,4 +4,5 @@ spring:
     cloud:
         stream:
             bindings:
-                input: reservations
+                input:
+                    destination: reservations
