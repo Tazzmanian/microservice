@@ -24,4 +24,11 @@
             </modules>
         </profile>
     </profiles>
+    <build>
+        <resources>
+            <resource>
+                <directory>../ConfigData</directory>
+            </resource>
+        </resources>
+    </build>
 </project>
